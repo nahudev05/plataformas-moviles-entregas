@@ -2,7 +2,7 @@ h1.titulo {
     text-align: center;
 }
 
-article p {
+html p {
     font-family: serif;
 }
 
@@ -18,7 +18,7 @@ body p a[href] {
     outline: 1px solid #333;
 }
 
-body p.fuente.parrafo {
+html body p.fuente.parrafo {
     opacity: 100%;
     color: #000 !important;
 }
